@@ -1,0 +1,242 @@
+# DATE
+04 01 2021
+28 08 2023
+
+**************
+# INDICES
+****************
+s&p500 ^SPX 500 acciones de las empresas más grandes que cotizan en el Nasdaq y la Bolsa de Nueva York
+nasdaq ^IXIC el Nasdaq Composite rastrea los valores en la bolsa Nasdaq.
+IPC ^MXX
+stoxx600 ^STOXX
+dax ^GDAXI
+cac 40 ^FCHI
+vix ^VIX
+*chino 000001.SS
+*nikkey ^N225
+*hangseng ^HSI
+*Nifty 50 ^NSEI
+*kospy ^KS11
+*Dow Jones Industrial Average (^DJI) es una colección de 30 acciones estadounidenses de primera línea
+
+
+********************
+#ETFs SECTOR
+********************
+S&P 500 tech XLK 
+S&P 500 financ XLF
+S&P 500 health XLV
+S&P 500 energy XLE
+S&P 500 comunication XLC
+S&P 500 consumer discret s XLY
+S&P 500 consumer staples XLP
+S&P 500Industrial sector XLI
+S&P 500Material sector XLB
+S&P 500Reasl state sector XLRE
+S&P 500utilities sector XLU
+
+****************
+#ETF TRACKERS
+****************
+S&P500 SPY
+IPC EWW
+
+***********
+ETF factors (blackrock)
+**********
+IVW - grouth
+IVE - value
+QUAL - quality
+USMV - minimum volatility
+MTUM - momentum
+SIZE - size
+
+************
+#TECHNOLOGY
+************
+s&p500 sector techono XLK
+appl AAPL
+microsoft MSFT
+nvidia NVDA
+amazon AMZN
+alphabet GOOG
+meta META
+netflix NFLX
+
+************
+#FINANCIALS
+************
+s&p500 sector  XLF
+berkshire BRK-B
+jp morgan JPM
+visa V
+mastercard MA
+bank of america BAC
+morgan staney MS
+goldaman sachs GS
+blackrock BLK
+
+*******************    
+#HEALTH CARE
+********************
+s&p500 sector  XLV
+eli lilly LLI
+j&j JNJ
+p&gamble PG
+merck MRK 
+abbvie ABBV
+pfizer PFE
+
+******************
+#CRIPTO#
+******************
+bitcoin BTC-USD
+etherum ETH-USD
+solana SOL-USD
+USDC USDC-USD
+USDT USDT-USD
+DAI DAI-USD
+
+***********************
+#FOREING EXCHANGE
+***********************
+EUR EURUSD=X
+GBP GBPUSD=X
+CHF CHFUSD=X
+SEK SEKUSD=X
+NOK NOKUSD=X
+JPY JPYUSD=X
+MXN MXNUSD=X
+
+**************
+#AMOS
+**************
+vanguard VTI
+blackrock BLK
+state street co STT
+morgan stanley MS
+jp morgan JPM
+
+********
+#OTROS
+*********
+000001.SS ipc chino
+10y us treasury ^TNX
+nasdaq100 NDX
+herbalife HLF
+
+****************
+# militares
+***************
+NOC northtrup grumman
+LMT lockheed martin
+GD general dynamics
+RTX rayteon tech
+000768.SZ aviation Industry Corporation of China
+BA boeing
+BAESY bAE Systems
+000065.SZ china North Industries Group
+LHX l3Harris Technologies
+601098.SS china South Industries Group
+LDO.MI leonardo
+AIR.PA airbus
+HII hII
+HO.PA thales
+0031.HK china Aerospace Science and Technology				
+
+********************
+5 big
+*********************
+AAPL
+MSFT
+AMZN
+GOOG
+MCD mcdonalds
+
+***************************
+#grandes bancos bpleyades
+***************************
+BARC.L   barclays plc.
+        Capital Group Companies Inc.
+        FMR Corporation
+CS.PA   axa
+STT   state Street Corporation
+JPM   jpmorgan Chase & Co.
+LGEN.L   legal & General Group plc.
+VTI    vanguard Group Inc.
+UBS    ubs AG
+        Merrill Lynch & Co Inc
+
+**********************************
+Los 28 bancos más grandes pleyades
+********************************
+JPM     J.P. Morgan Chase
+BAC     Bank of America
+C     Citigroup
+HSBC     HSBC
+DB     Deutsche Bank
+ACA.PA     Groupe Crédit Agricole
+BNP Paribas
+BARC.L     Barclays PLC
+MUFG     Mitsubishi Ufjfg
+3988.HK     Bank of China
+RBSPF     Royal Bank of Scotland
+MS     Morgan Stanley
+GS     Goldman Sachs
+MFG     Mizuho FG
+SAN     Santander
+GLE.PA     Société Générale
+ING     ING Bank
+     BPCE
+WFC     Wells Fargo
+SMFG     Sumitomo Mitsui FG
+UBS    UBS
+UCG.MI     Unicrédit Group
+     Crédit Suisse
+NDA-FI.HE     Nordea
+BBVA     BBVA
+STAN.L     Standart Chartered
+BK     Bank of New York Mellon
+STT     State Street
+
+******************
+6 empresas invierte billgates 1023
+*******************
+DE       john deeere
+CAT       caterpillar
+WM       waste management
+CNI       canadian national raylway
+BRK-A       berkshire hathaway
+MSFT       microsoft
+
+******************************
+Stanley Druckenmiller 13F Portfolio: Top 15 Stocks
+*********************************
+PTC Inc. (NASDAQ:PTC)
+Builders FirstSource, Inc. (NYSE:BLDR)
+Natera, Inc. (NASDAQ:NTRA)
+IQVIA Holdings Inc. (NYSE:IQV)
+Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM)
+General Electric Company (NYSE:GE)
+News Corporation (NASDAQ:NWS)
+Option Care Health, Inc. (NASDAQ:OPCH)
+Teck Resources Limited (NYSE:TECK)
+T-Mobile US, Inc. (NASDAQ:TMUS)
+Lamb Weston Holdings, Inc. (NYSE:LW)
+Eli Lilly and Company (NYSE:LLY)
+Microsoft Corporation (NASDAQ:MSFT)
+Coupang, Inc. (NYSE:CPNG) ***03/11/2021
+NVIDIA Corporation (NASDAQ:NVDA)
+
+*******************************
+5 Best Consistent Dividend Stocks to Invest In
+*******************************
+PepsiCo, Inc. (NASDAQ:PEP)
+Exxon Mobil Corporation (NYSE:XOM)
+Chevron Corporation (NYSE:CVX)
+The Procter & Gamble Company (NYSE:PG)
+Johnson & Johnson (NYSE:JNJ)
+
+
+
+
